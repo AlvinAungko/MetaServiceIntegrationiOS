@@ -7,4 +7,6 @@ target 'iOSSharingFBLink' do
 
   # Pods for iOSSharingFBLink
   pod 'FBSDKCoreKit'
+  pod 'FBSDKLoginKit'
+  pod 'FBSDKShareKit'
 end
